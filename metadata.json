@@ -1,0 +1,6 @@
+{
+  "name": "MathLens Android - Solucionador Matemático Paso a Paso",
+  "description": "Resuelve cualquier ejercicio de matemáticas paso a paso con solo tomar una foto. Incluye explicaciones detalladas, fórmulas KaTeX, graficador interactivo y tutor con chat Gemini.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
